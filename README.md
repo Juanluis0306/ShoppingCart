@@ -176,6 +176,8 @@ Ejecutar pruebas desde Android Studio:
 
 * Pruebas unitarias y de UI (JUnit + MockK + Compose Test).
 
+* Se realiza la implemetación de Build Variant (debug y release)
+
 ## Autor
 
 Proyecto desarrollado por **Juan Luis Hernandez**
